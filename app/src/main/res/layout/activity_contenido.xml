@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6DBD50"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="368dp"
+        android:layout_height="349dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="19dp"
+        android:layout_marginBottom="62dp"
+        android:text="Así vamos a tener medicamentos con acciones concretas en tejidos concretos. Tenemos medicamentos para los músculos como ARNICA, para los tendones como RUTA y para los nervios como HYPERICUM. Pero no solo tenemos medicamentos específicos de los tejidos y de los órganos, también los tenemos para las distintas sensaciones que siente nuestro paciente. RHUS TOXICODENDRON será un gran calmante de los dolores que aparecen al comenzar el movimiento y que mejoran cuando la articulación se va calentando y BRYONIA lo será de los dolores que se agravan al menor movimiento pero que mejoran con el reposo absoluto. Y los pacientes que tienen una gran sensibilidad a la humedad podrán beneficiarse de DULCAMARA."
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="347dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="347dp"
+        android:layout_height="317dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="29dp"
+        android:layout_marginBottom="416dp"
+        app:srcCompat="@drawable/homeopatia_enfermedades_reumaticas_704x454"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-43dp" />
+</RelativeLayout>

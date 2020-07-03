@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="registroInfo" type="id" />
+    <item name="ide" type="id" />
+    <item name="nombre" type="id" />
+    <item name="apellido" type="id" />
+    <item name="Especi" type="id" />
+    <item name="celular" type="id" />
+    <item name="ide1" type="id" />
+    <item name="nombre1" type="id" />
+    <item name="apellido1" type="id" />
+    <item name="Especi1" type="id" />
+    <item name="celular1" type="id" />
+</resources>
